@@ -1,0 +1,39 @@
+
+header
+{
+background-color: red;
+}
+
+
+nav
+{
+background-color: yellow;
+}
+
+
+section
+{
+  background-color: green;
+}
+
+#titre-article
+{
+  background-color: pink;
+}
+
+aside
+{
+  background-color:orange;
+  float: left;
+}
+
+article
+{
+margin-left: 45%;
+
+}
+
+footer
+{
+background-color: blue;
+}
